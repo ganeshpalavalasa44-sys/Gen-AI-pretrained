@@ -1,0 +1,17 @@
+# Core Deep Learning Framework
+tensorflow>=2.15.0
+tensorflow-hub>=0.16.0
+tf-keras>=2.15.0
+kagglehub>=0.1.0
+
+# Computer Vision & Video Processing
+opencv-python>=4.8.0
+numpy>=1.24.0,<3.0.0
+Pillow>=10.0.0
+
+# Web Application & Deployment
+streamlit>=1.30.0
+
+# Visualization & Utilities
+matplotlib>=3.7.0
+pandas>=2.0.0
