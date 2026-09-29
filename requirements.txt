@@ -1,7 +1,7 @@
-# Core Deep Learning Backbone (CPU optimized for cloud memory limits)
-tensorflow-cpu>=2.15.0
-tensorflow-hub>=0.16.0
-tf-keras>=2.15.0
+# Core Deep Learning Backbone (Installs on Python <= 3.12)
+tensorflow-cpu>=2.15.0; python_version <= "3.12"
+tensorflow-hub>=0.16.0; python_version <= "3.12"
+tf-keras>=2.15.0; python_version <= "3.12"
 kagglehub>=0.1.0
 
 # Computer Vision & Video Processing (Headless for cloud containers)
